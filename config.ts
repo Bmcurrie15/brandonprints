@@ -1,7 +1,7 @@
 
 export const CONFIG = {
-  // Replace this with your published Google Sheet CSV URL
-  GOOGLE_SHEET_URL: "",
+  // Connected to your live Google Sheet
+  GOOGLE_SHEET_URL: "https://docs.google.com/spreadsheets/d/1ChFWtpVyOID9dZ6eW5jTyDD-YtgNe3rUeSchTWUavYk/export?format=csv",
   
   CONTACT: {
     EMAIL: "bmcurrie15@gmail.com",

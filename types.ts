@@ -1,9 +1,10 @@
+
 export interface Print {
   slug: string;
   title: string;
   description: string;
   category: 'Sports' | 'Gifts' | 'Functional' | 'Decorative' | string;
-  material: string;
+  materials: string[]; // Changed from material: string
   purpose: 'gift' | 'personal' | 'custom' | string;
   notes: string;
   featured: boolean;

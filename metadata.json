@@ -1,5 +1,5 @@
 {
-  "name": "WithLiveDB (PROD, backup) Brandon Prints Portfolio",
+  "name": "(PROD, backup) Brandon Prints Portfolio",
   "description": "A static, image-first portfolio for 3D printed work powered by Google Sheets. Features a subtle 3D background animation, gallery filtering, and optimized mobile layout.",
   "requestFramePermissions": []
 }
